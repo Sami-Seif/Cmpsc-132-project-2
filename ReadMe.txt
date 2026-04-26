@@ -40,7 +40,7 @@ Limited predefined alert types
 
 Authors
 Robert Harutyunyan
-Semi Seif
+Sami Seif
 
 For study and learning
 Project for School
